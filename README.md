@@ -59,3 +59,4 @@ The testing executable is also placed in the `build` directory. From within `bui
 ./test
 ```
 
+![](README.assets/lesson-diagrams.png)
